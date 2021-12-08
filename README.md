@@ -1,3 +1,5 @@
+Malin Häggblom
+
 # agile-groupwork
 
 A simple template for a console application with SQLite database.
