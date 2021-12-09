@@ -1,6 +1,9 @@
-Malin Häggblom
+TEAM MEMBERS: Malin Häggblom
 Antti Nygård
 Juha-Matti Huhtala
+
+TEAM TRELLO LINK: 
+https://trello.com/b/ofKFJ9hC/basics-of-agile
 
 # agile-groupwork
 
