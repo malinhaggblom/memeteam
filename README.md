@@ -1,6 +1,7 @@
 TEAM MEMBERS: Malin Häggblom, 
 Antti Nygård, 
-Juha-Matti Huhtala, Jim Nulambeh and 
+Juha-Matti Huhtala,
+
 
 TEAM TRELLO LINK: 
 https://trello.com/b/ofKFJ9hC/basics-of-agile
