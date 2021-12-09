@@ -1,5 +1,7 @@
 Malin Häggblom
 Antti Nygård
+Juha-Matti Huhtala
+
 # agile-groupwork
 
 A simple template for a console application with SQLite database.
