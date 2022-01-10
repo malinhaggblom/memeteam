@@ -1,10 +1,11 @@
-TEAM MEMBERS: Malin Häggblom, 
-Antti Nygård, 
+TEAM MEMBERS: Malin Häggblom,
+Antti Nygård,
 Juha-Matti Huhtala,
 uddav dhakal
-Mio Lanér
+Mio Lanér,
+Jim Nulambeh
 
-TEAM TRELLO LINK: 
+TEAM TRELLO LINK:
 https://trello.com/b/ofKFJ9hC/basics-of-agile
 
 # agile-groupwork
