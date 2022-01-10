@@ -1,7 +1,7 @@
 TEAM MEMBERS: Malin Häggblom, 
 Antti Nygård, 
 Juha-Matti Huhtala,
-uddhav,
+uddav dhakal
 Mio Lanér
 
 TEAM TRELLO LINK: 
